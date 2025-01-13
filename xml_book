@@ -1,0 +1,53 @@
+<book>
+    <title>Comprehensive Medicine Guide</title>
+    <author>Dr. John Doe</author>
+    <publication_year>2023</publication_year>
+    <chapters>
+        <chapter>
+            <title>Chapter 1: Pain Relievers</title>
+            <content>
+                <medicine>
+                    <name>Paracetamol</name>
+                    <uses>Used to reduce fever and relieve mild to moderate pain.</uses>
+                    <dosage>
+                        <adults>500mg to 1000mg every 4-6 hours, not exceeding 4000mg in 24 hours.</adults>
+                        <children>10-15mg per kg of body weight every 4-6 hours.</children>
+                    </dosage>
+                    <side_effects>Nausea, allergic reactions, liver damage in overdose.</side_effects>
+                </medicine>
+                <medicine>
+                    <name>Ibuprofen</name>
+                    <uses>Relieves inflammation, pain, and fever.</uses>
+                    <dosage>
+                        <adults>200-400mg every 4-6 hours, not exceeding 1200mg in 24 hours without medical advice.</adults>
+                        <children>5-10mg per kg of body weight every 6-8 hours.</children>
+                    </dosage>
+                    <side_effects>Stomach upset, heartburn, dizziness, kidney issues in overdose.</side_effects>
+                </medicine>
+            </content>
+        </chapter>
+        <chapter>
+            <title>Chapter 2: Antibiotics</title>
+            <content>
+                <medicine>
+                    <name>Amoxicillin</name>
+                    <uses>Used to treat bacterial infections such as pneumonia, bronchitis, and ear infections.</uses>
+                    <dosage>
+                        <adults>250-500mg every 8 hours or 500-875mg every 12 hours.</adults>
+                        <children>20-40mg per kg of body weight daily, divided into 2-3 doses.</children>
+                    </dosage>
+                    <side_effects>Diarrhea, nausea, rash, allergic reactions.</side_effects>
+                </medicine>
+                <medicine>
+                    <name>Ciprofloxacin</name>
+                    <uses>Effective for treating urinary tract infections, respiratory tract infections, and skin infections.</uses>
+                    <dosage>
+                        <adults>250-750mg every 12 hours.</adults>
+                        <children>Not recommended for routine use in children.</children>
+                    </dosage>
+                    <side_effects>Nausea, diarrhea, dizziness, increased risk of tendon rupture.</side_effects>
+                </medicine>
+            </content>
+        </chapter>
+    </chapters>
+</book>
